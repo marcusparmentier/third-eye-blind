@@ -1,0 +1,23 @@
+.column {
+  width: 30%;
+  float: left;
+  height: auto;
+  margin: 0;
+}
+
+.column img {
+  width: 90%;
+  float: left;
+}
+
+.words {
+  margin-left: 10px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: grey;
+  margin: 5px;
+  text-align: center;
+}
